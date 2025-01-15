@@ -1,6 +1,6 @@
 # Mount Rainier
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.visittheusa.com%2Fdestination%2Fmount-rainier-national-park&psig=AOvVaw1QNzNrWz6wF4gaOzg_nc4e&ust=1736987484493000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCZleK89ooDFQAAAAAdAAAAABAE)
+![Beautiful Mount Rainier](Mt Rainier.jpg)
 
 Mount Rainier is an iconic stratovolcano located in Washington State, USA. Towering at 14,411 feet (4,392 meters), it is the highest peak in the Cascade Range and serves as a stunning backdrop to the Seattle-Tacoma area. The mountain is part of Mount Rainier National Park and is renowned for its glaciers, diverse ecosystems, and breathtaking landscapes. **Mount Rainier** has captivated adventurers, scientists, and nature lovers for generations.
 
@@ -18,11 +18,11 @@ The region surrounding Mount Rainier boasts a rich variety of ecosystems due to 
 
 Wildlife is abundant, with black bears, mountain goats, elk, and marmots commonly sighted.
 
-### Subsection 1: Glaciers
+### Glaciers
 
 Mount Rainier’s glaciers are among its most defining features. The largest glacier, the Emmons Glacier, spans 4.3 square miles and is the largest glacier in the contiguous United States. These glaciers are vital for maintaining river systems and supporting the surrounding ecosystems.
 
-### Subsection 2: Recreational Opportunities
+### Recreational Opportunities
 
 Mount Rainier National Park offers a range of recreational activities, including hiking, camping, climbing, and skiing. The Wonderland Trail, a 93-mile loop around the mountain, is a popular destination for experienced hikers.
 
