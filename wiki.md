@@ -1,6 +1,6 @@
 # Mount Rainier
 
-![Beautiful Mount Rainier](Mt Rainier.jpg)
+![Beautiful Mount Rainier](Mt%20Rainier.jpg)
 
 Mount Rainier is an iconic stratovolcano located in Washington State, USA. Towering at 14,411 feet (4,392 meters), it is the highest peak in the Cascade Range and serves as a stunning backdrop to the Seattle-Tacoma area. The mountain is part of Mount Rainier National Park and is renowned for its glaciers, diverse ecosystems, and breathtaking landscapes. **Mount Rainier** has captivated adventurers, scientists, and nature lovers for generations.
 
